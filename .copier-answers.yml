@@ -15,7 +15,7 @@ github_enforce_dev_status_compatibility: true
 include_wkhtmltopdf: false
 odoo_test_flavor: OCB
 odoo_version: 18.0
-org_name: David BEAL
+org_name: bealdav
 org_slug: bealdav
 rebel_module_groups: []
 repo_description: Define transitory fields
