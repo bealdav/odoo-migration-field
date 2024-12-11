@@ -7,6 +7,9 @@
                 <page name="migration" string="Old">
                     <group>
                         <group>
+                            <field name="cat_tarif" />
+                        </group>
+                        <group>
                             <field name="extra_data" />
                         </group>
                         <group />
